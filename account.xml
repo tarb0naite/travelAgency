@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<account>
+    <id>0</id>
+    <userName>userName1</userName>
+    <password>Password</password>
+    <offer>
+        <cost>200</cost>
+        <id>0</id>
+        <name>Tenerife</name>
+        <trip>
+            <accommodation>
+                <id>0</id>
+                <placeName>The name of Hotel</placeName>
+            </accommodation>
+            <cost>100</cost>
+            <destination>Iceland</destination>
+            <id>0</id>
+            <transport>
+                <id>0</id>
+                <name>Plane</name>
+            </transport>
+            <type>SUMMER</type>
+        </trip>
+    </offer>
+    <trip>
+        <accommodation>
+            <id>0</id>
+            <placeName>The name of Hotel</placeName>
+        </accommodation>
+        <cost>100</cost>
+        <destination>Iceland</destination>
+        <id>0</id>
+        <transport>
+            <id>0</id>
+            <name>Plane</name>
+        </transport>
+        <type>SUMMER</type>
+    </trip>
+</account>
